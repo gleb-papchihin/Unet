@@ -6,9 +6,9 @@ A video of a training is presented below.
 
 ### Unet ConvTranspose2d Training:
 
-![Bilinear](https://github.com/gleb-papchihin/Unet/blob/main/images/UnetBilinearTwo.gif)
+![Transpose](https://github.com/gleb-papchihin/Unet/blob/main/images/UnetTransposeTwo.gif)
 
 ### Unet Bilinear Training:
 
-![Transpose](https://github.com/gleb-papchihin/Unet/blob/main/images/UnetTransposeTwo.gif)
+![Bilinear](https://github.com/gleb-papchihin/Unet/blob/main/images/UnetBilinearTwo.gif)
 
