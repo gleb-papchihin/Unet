@@ -1,8 +1,7 @@
 # Unet: Hand segmentation
 ### Non real time hand segmentation :)
 
-Two realisation of Unet for hand segmentation.
-A video of a training is presented below.
+Two realisation of Unet for hand segmentation. A video of a training is presented below. Try to find differnce ;)
 
 ### Unet ConvTranspose2d Training:
 
