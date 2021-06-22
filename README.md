@@ -4,7 +4,11 @@
 Two realisation of Unet for hand segmentation.
 A video of a training is presented below.
 
-### Unet ConvTranspose2d:
+### Unet ConvTranspose2d Training:
+
+![]()
+
+### Unet Bilinear Training:
 
 ![]()
 
